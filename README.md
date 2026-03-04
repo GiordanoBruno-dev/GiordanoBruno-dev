@@ -43,7 +43,7 @@ Sou Analista de Suporte N2 na Wyntech, onde gerencio sistemas críticos do DETRA
 ### 📊 Estatísticas e Conquistas
 
 <p>
-    <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiordanoBruno-dev&theme=tokyonight" />
-    <img align="left" alt="Top Langs" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiordanoBruno-dev&theme=tokyonight" />
+    <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GiordanoBruno-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GiordanoBruno-dev&layout=compact&theme=tokyonight" />
 
 </p>
