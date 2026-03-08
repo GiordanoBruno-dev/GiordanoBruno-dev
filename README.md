@@ -4,7 +4,7 @@
 
 Me chamo Giordano Bruno Rosales Batista, tenho 22 anos e resido em Porto Alegre, RS. Atualmente, estou cursando o 5º semestre de Ciência da Computação na UNIFIN e possuo formação técnica em informática pela Alcides Maya. 
 
-Sou Analista de Suporte N2 na Wyntech, onde gerencio sistemas críticos do DETRAN/RS. Paralelamente, foco minha evolução no desenvolvimento de sistemas, criando soluções robustas com PHP, Python e SQL, sempre integrando boas práticas de cibersegurança e infraestrutura.
+Sou Analista de Suporte N2 na Wyntech, onde gerencio sistemas críticos do DETRAN/RS. Paralelamente, foco minha evolução no desenvolvimento de sistemas, criando soluções robustas com JavaScript, React, Python e SQL, sempre integrando boas práticas de cibersegurança e infraestrutura.
 
 <p align="left">
     <a href="https://github.com/GiordanoBruno-dev">
